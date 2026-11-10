@@ -35,6 +35,8 @@ The presentation tier should make loading, empty, success, and error states visi
    > npm run dev --prefix octofit-tracker/frontend -- --host 0.0.0.0
    > ```
 
+   In Codespaces, open the forwarded port **5173** to view the app. Port **8000** serves the API only; use its `/api/...` endpoints to check API responses.
+
 1. Commit and push the presentation tier.
 
 <details>
